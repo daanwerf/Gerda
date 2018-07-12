@@ -111,3 +111,4 @@ venv/
 
 # Ignore python compile files
 *.pyc
+.idea/
