@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Folders for local test scripts and venv
+__testScripts/
+__testScripts/*
+venv/*
+venv/
+
+# Ignore python compile files
+*.pyc
